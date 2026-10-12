@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Python virtual environment
+/foresight_venv
+.DS_Store
