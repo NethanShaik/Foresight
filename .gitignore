@@ -222,3 +222,8 @@ __marimo__/
 #Python virtual environment
 /foresight_venv
 .DS_Store
+
+# Foresight
+data/
+ml/models/*
+node_modules/
